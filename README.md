@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.android.com/)
 [![Target](https://img.shields.io/badge/Target-LeviLauncher_1.5.25+-FF6F00?style=for-the-badge)](https://github.com/LeviMC)
-[![Release](https://img.shields.io/badge/Release-.levipack_Ready-brightgreen?style=for-the-badge)](https://github.com/)
+[![Release](https://img.shields.io/badge/Release-.levipack_Ready-brightgreen?style=for-the-badge)](https://github.com/uznbt/autoclikerlevimod/releases)
 
 Autoclicker Native C++ eksklusif untuk **LeviLauncher / LeviLaunchroid** (Minecraft Bedrock Android). Didesain khusus agar berjalan lancar, ringan, 0-lag, tanpa memerlukan aplikasi tambahan, overlay luar, ataupun akses root.
 
@@ -25,7 +25,7 @@ Autoclicker Native C++ eksklusif untuk **LeviLauncher / LeviLaunchroid** (Minecr
 ## Cara Install & Menggunakan (.levipack)
 
 1. **Download File Mod**:
-   - Buka bagian **Releases** pada halaman GitHub ini.
+   - Buka halaman [GitHub Releases](https://github.com/uznbt/autoclikerlevimod/releases).
    - Unduh file berkestensi `.levipack` (contoh: `autoclickerlevimod.levipack`).
 
 2. **Pasang di LeviLauncher**:
