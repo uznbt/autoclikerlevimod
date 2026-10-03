@@ -62,15 +62,9 @@ Autoclicker Native C++ eksklusif untuk **[LeviLauncher](https://levilauncher.lev
 
 ## Kontribusi
 
-Kontribusi selalu terbuka! Jika Anda menemukan bug, ingin menambahkan fitur baru, atau meningkatkan performa mod:
+Kontribusi selalu terbuka! Silakan baca **[CONTRIBUTING.md](CONTRIBUTING.md)** untuk panduan lengkap tentang standar kode, pelaporan bug, dan pengajuan Pull Request.
 
-1. **Fork** repositori ini.
-2. Buat branch baru untuk fitur Anda (`git checkout -b feature/FiturBaru`).
-3. Commit perubahan Anda (`git commit -m 'feat: menambahkan fitur baru'`).
-4. Push ke branch tersebut (`git push origin feature/FiturBaru`).
-5. Buat **Pull Request**.
-
-Jika menemukan bug atau memiliki saran, silakan buka **[Issues](https://github.com/uznbt/autoclikerlevimod/issues)**.
+Jika menemukan bug atau memiliki saran, Anda dapat membuka isu baru di **[GitHub Issues](https://github.com/uznbt/autoclikerlevimod/issues)**.
 
 ---
 
