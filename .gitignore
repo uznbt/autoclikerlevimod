@@ -1,0 +1,29 @@
+# Build & Output Directories
+build*/
+out/
+dist/
+generated-config/
+
+# Compiled Mod Binaries & Packages
+*.so
+*.zip
+*.levipack
+*.apk
+
+# IDE & Editor Files
+.idea/
+.vs/
+.vscode/
+.clangd/
+*.swp
+*.swo
+
+# Temporary & Log Files
+*.log
+tombstone_*
+scratch/
+/tmp/
+
+# OS Specific
+.DS_Store
+Thumbs.db

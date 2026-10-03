@@ -1,0 +1,58 @@
+# LeviLauncher Native Autoclicker Mod
+
+[![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.android.com/)
+[![Target](https://img.shields.io/badge/Target-LeviLauncher_1.5.25+-FF6F00?style=for-the-badge)](https://github.com/LeviMC)
+[![Release](https://img.shields.io/badge/Release-.levipack_Ready-brightgreen?style=for-the-badge)](https://github.com/)
+
+Autoclicker Native C++ eksklusif untuk **LeviLauncher / LeviLaunchroid** (Minecraft Bedrock Android). Didesain khusus agar berjalan lancar, ringan, 0-lag, tanpa memerlukan aplikasi tambahan, overlay luar, ataupun akses root.
+
+ Tinggal unduh file `.levipack` dari menu **Releases** di GitHub ini dan pasang ke LeviLauncher!
+
+---
+
+## Fitur Utama Mod
+
+- **0-Lag Touch Injection**: Mengirim input klik langsung di dalam memori game (JNI Native). Tidak membuat game patah-patah atau merusak FPS.
+- **Dynamic HUD Position**: Tombol melayang "**AC**" di layar dapat digeser (*draggable*). Klik otomatis akan tepat mengenai lokasi di mana tombol "AC" tersebut ditaruh.
+- **Mode Auto-Click (PvP)**: Pukulan cepat (*spam click*) otomatis untuk PvP / menyerang mob dengan interval milidetik yang dapat disesuaikan.
+- **Mode Auto-Hold (Mining / Building)**: Menahan layar secara terus-menerus tanpa lepas. Cocok untuk *mining* blok panjang, menghancurkan *obsidian*, atau *fast building*.
+- **Smart Anti-Freeze (Smart Pause)**: Begitu jari asli Anda menyentuh analog jalan atau layar, autoclicker akan otomatis *pause* sejenak sehingga game tidak *freeze* atau susah dimatikan.
+- **Emergency Stop**: Bisa mematikan/menyalakan mod secara instan menggunakan tombol fisik **Volume Up/Down** HP Anda.
+
+---
+
+## Cara Install & Menggunakan (.levipack)
+
+1. **Download File Mod**:
+   - Buka bagian **Releases** pada halaman GitHub ini.
+   - Unduh file berkestensi `.levipack` (contoh: `autoclickerlevimod.levipack`).
+
+2. **Pasang di LeviLauncher**:
+   - Buka aplikasi **LeviLauncher / LeviLaunchroid** di Android Anda.
+   - Masuk ke **Mod Manager** / Pengelola Mod.
+   - Impor atau salin file `.levipack` ke folder mod LeviLauncher Anda, lalu **Aktifkan Mod**.
+
+3. **Pengaturan Mode & Kecepatan**:
+   - Buka **Mod Settings** di LeviLauncher.
+   - **Mode**: Pilih antara `Auto-Click` (PvP / Spam) atau `Auto-Hold` (Mining / Tahan Tangan).
+   - **Interval (ms)**: Atur kecepatan klik dalam milidetik (misal: `50ms` ~ `100ms`).
+
+4. **Penggunaan di Dalam Game**:
+   - Masuk ke dunia Minecraft Bedrock.
+   - Tombol melayang **`AC`** akan muncul. Geser tombol ke posisi yang nyaman.
+   - Tekan tombol **`AC`** untuk mengaktifkan (**ON**). Tekan lagi untuk mematikan (**OFF**).
+   - Anda juga dapat menekan **Tombol Volume HP** untuk menyalakan/mematikan mod kapan saja saat darurat.
+
+---
+
+## Developer / Compiling (Opsional)
+
+Jika Anda ingin mengkompilasi sendiri dari source code:
+
+1. Pastikan terinstall Android NDK r28b & PowerShell (`pwsh`).
+2. Jalankan skrip build:
+   ```bash
+   ./build.sh
+   ```
+3. File `.levipack` baru akan tercipta di folder `build-arm64-v8a/`.
