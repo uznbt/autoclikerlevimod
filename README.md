@@ -2,12 +2,12 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.android.com/)
-[![Target](https://img.shields.io/badge/Target-LeviLauncher_1.5.25+-FF6F00?style=for-the-badge)](https://github.com/LeviMC)
+[![Target](https://img.shields.io/badge/Target-LeviLauncher_1.5.25+-FF6F00?style=for-the-badge)](https://github.com/LiteLDev/LeviLauncher)
 [![Release](https://img.shields.io/badge/Release-.levipack_Ready-brightgreen?style=for-the-badge)](https://github.com/uznbt/autoclikerlevimod/releases)
 
-Autoclicker Native C++ eksklusif untuk **LeviLauncher / LeviLaunchroid** (Minecraft Bedrock Android). Didesain khusus agar berjalan lancar, ringan, 0-lag, tanpa memerlukan aplikasi tambahan, overlay luar, ataupun akses root.
+Autoclicker Native C++ eksklusif untuk **[LeviLauncher](https://levilauncher.levimc.org/)** / LeviLaunchroid (Minecraft Bedrock Android). Didesain khusus agar berjalan lancar, ringan, 0-lag, tanpa memerlukan aplikasi tambahan, overlay luar, ataupun akses root.
 
- Tinggal unduh file `.levipack` dari menu **Releases** di GitHub ini dan pasang ke LeviLauncher!
+ Tinggal unduh file `.levipack` dari menu **[Releases](https://github.com/uznbt/autoclikerlevimod/releases)** di GitHub ini dan pasang ke LeviLauncher!
 
 ---
 
@@ -26,7 +26,7 @@ Autoclicker Native C++ eksklusif untuk **LeviLauncher / LeviLaunchroid** (Minecr
 
 1. **Download File Mod**:
    - Buka halaman [GitHub Releases](https://github.com/uznbt/autoclikerlevimod/releases).
-   - Unduh file berkestensi `.levipack` (contoh: `autoclickerlevimod.levipack`).
+   - Unduh file berkestensi `.levipack` (contoh: `autoclickerlevimod-0.1.0-arm64-v8a.levipack`).
 
 2. **Pasang di LeviLauncher**:
    - Buka aplikasi **LeviLauncher / LeviLaunchroid** di Android Anda.
@@ -43,6 +43,14 @@ Autoclicker Native C++ eksklusif untuk **LeviLauncher / LeviLaunchroid** (Minecr
    - Tombol melayang **`AC`** akan muncul. Geser tombol ke posisi yang nyaman.
    - Tekan tombol **`AC`** untuk mengaktifkan (**ON**). Tekan lagi untuk mematikan (**OFF**).
    - Anda juga dapat menekan **Tombol Volume HP** untuk menyalakan/mematikan mod kapan saja saat darurat.
+
+---
+
+## Referensi & Komunitas LeviLauncher
+
+- **Situs Resmi LeviLauncher**: [https://levilauncher.levimc.org/](https://levilauncher.levimc.org/)
+- **GitHub Resmi LeviLauncher**: [https://github.com/LiteLDev/LeviLauncher](https://github.com/LiteLDev/LeviLauncher)
+- **Framework Preloader Android**: [https://github.com/LiteLDev/preloader-android](https://github.com/LiteLDev/preloader-android)
 
 ---
 
