@@ -4,7 +4,7 @@ Terima kasih telah tertarik untuk berkontribusi pada **LeviLauncher Native Autoc
 
 ---
 
-## 🚀 Cara Berkontribusi
+## Cara Berkontribusi
 
 ### 1. Melaporkan Bug (Bug Reports)
 Jika Anda menemukan bug, error, atau masalah saat menggunakan mod:
@@ -52,7 +52,7 @@ Jika Anda ingin memperbaiki bug atau membuat fitur sendiri:
 
 ---
 
-## 🛠️ Standar Kode & Persyaratan Build
+## Standar Kode & Persyaratan Build
 
 - **Bahasa**: C++17 / C++20
 - **Compiler / Toolchain**: Android NDK **r28b** (`28.2.13676358`)
@@ -62,6 +62,6 @@ Jika Anda ingin memperbaiki bug atau membuat fitur sendiri:
 
 ---
 
-## ⚖️ Lisensi
+## Lisensi
 
 Dengan berkontribusi pada repositori ini, Anda menyetujui bahwa kontribusi Anda akan dilisensikan di bawah [Lisensi MIT](LICENSE).
