@@ -3,6 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.android.com/)
 [![Target](https://img.shields.io/badge/Target-LeviLauncher_1.5.25+-FF6F00?style=for-the-badge)](https://github.com/LiteLDev/LeviLauncher)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Release](https://img.shields.io/badge/Release-.levipack_Ready-brightgreen?style=for-the-badge)](https://github.com/uznbt/autoclikerlevimod/releases)
 
 Autoclicker Native C++ eksklusif untuk **[LeviLauncher](https://levilauncher.levimc.org/)** / LeviLaunchroid (Minecraft Bedrock Android). Didesain khusus agar berjalan lancar, ringan, 0-lag, tanpa memerlukan aplikasi tambahan, overlay luar, ataupun akses root.
@@ -59,11 +60,31 @@ Autoclicker Native C++ eksklusif untuk **[LeviLauncher](https://levilauncher.lev
 
 ---
 
+## Kontribusi
+
+Kontribusi selalu terbuka! Jika Anda menemukan bug, ingin menambahkan fitur baru, atau meningkatkan performa mod:
+
+1. **Fork** repositori ini.
+2. Buat branch baru untuk fitur Anda (`git checkout -b feature/FiturBaru`).
+3. Commit perubahan Anda (`git commit -m 'feat: menambahkan fitur baru'`).
+4. Push ke branch tersebut (`git push origin feature/FiturBaru`).
+5. Buat **Pull Request**.
+
+Jika menemukan bug atau memiliki saran, silakan buka **[Issues](https://github.com/uznbt/autoclikerlevimod/issues)**.
+
+---
+
 ## Referensi & Komunitas LeviLauncher
 
 - **Situs Resmi LeviLauncher**: [https://levilauncher.levimc.org/](https://levilauncher.levimc.org/)
 - **GitHub Resmi LeviLauncher**: [https://github.com/LiteLDev/LeviLauncher](https://github.com/LiteLDev/LeviLauncher)
 - **Framework Preloader Android**: [https://github.com/LiteLDev/preloader-android](https://github.com/LiteLDev/preloader-android)
+
+---
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE). Bebas digunakan, dimodifikasi, dan didistribusikan secara terbuka.
 
 ---
 
