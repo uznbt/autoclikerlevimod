@@ -36,13 +36,26 @@ Autoclicker Native C++ eksklusif untuk **[LeviLauncher](https://levilauncher.lev
 3. **Pengaturan Mode & Kecepatan**:
    - Buka **Mod Settings** di LeviLauncher.
    - **Mode**: Pilih antara `Auto-Click` (PvP / Spam) atau `Auto-Hold` (Mining / Tahan Tangan).
-   - **Interval (ms)**: Atur kecepatan klik dalam milidetik (misal: `50ms` ~ `100ms`).
+   - **Interval (ms)**: Atur kecepatan klik dalam milidetik (Rekomendasi: `30ms` ~ `100ms`).
 
 4. **Penggunaan di Dalam Game**:
    - Masuk ke dunia Minecraft Bedrock.
    - Tombol melayang **`AC`** akan muncul. Geser tombol ke posisi yang nyaman.
    - Tekan tombol **`AC`** untuk mengaktifkan (**ON**). Tekan lagi untuk mematikan (**OFF**).
    - Anda juga dapat menekan **Tombol Volume HP** untuk menyalakan/mematikan mod kapan saja saat darurat.
+
+---
+
+## Hal-Hal yang Harus Dihindari (Peringatan & Tips)
+
+1. **Jangan Mengatur Interval Terlalu Kecil (< 20ms)**:
+   - Mengatur interval klik terlalu ekstrim (seperti `1ms` - `10ms`) dapat menumpuk antrean *input touch* pada sistem Android. Hal ini menyebabkan UI game terasa berat/lag dan tombol susah dipencet balik. **Gunakan interval ideal antara 30ms - 100ms** (sekitar 10 - 30 CPS).
+2. **Resiko Kena Auto-Ban / Anti-Cheat Server**:
+   - Jika bermain di server multiplayer (seperti Hive, Cubecraft, dll.), CPS yang terlalu tinggi dan terlalu stabil dapat terdeteksi oleh sistem Anti-Cheat server (misal: Grim, Vulcan). Gunakan interval yang wajar demi keamanan akun Anda.
+3. **Hindari Menekan Tombol AC Berulang-ulang Sangat Cepat Secara Manual**:
+   - Saat mod sedang menyala (**ON**), tidak perlu menekan tombol `AC` secara beruntun dengan jari asli. Gunakan **Tombol Volume HP** jika ingin mematikan mod secara mendadak saat darurat.
+4. **Matikan Mod Sebelum Mengubah Mode di Setting**:
+   - Disarankan untuk mematikan status autoclicker (**OFF**) terlebih dahulu sebelum berganti antara Mode *Auto-Click* dan *Auto-Hold* di Mod Settings LeviLauncher.
 
 ---
 
